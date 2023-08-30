@@ -1,0 +1,125 @@
+{
+  "quizTitle": "Quiz Time ",
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Which famous scientist developed the theory of relativity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Nikola Tesla"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "question": "What gas do plants use for photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the largest mammal?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "correctAnswer": "Blue Whale"
+    },
+    {
+      "question": "Which famous playwright wrote Romeo and Juliet?",
+      "options": [
+        "William Shakespeare",
+        "Jane Austen",
+        "Mark Twain",
+        "Charles Dickens"
+      ],
+      "correctAnswer": "William Shakespeare"
+    },
+    {
+      "question": "What is the symbol for the chemical element oxygen?",
+      "options": ["O", "Ox", "O2", "Oxg"],
+      "correctAnswer": "O"
+    },
+    {
+      "question": "Which instrument is known as the 'king of instruments'?",
+      "options": ["Piano", "Guitar", "Organ", "Violin"],
+      "correctAnswer": "Organ"
+    },
+    {
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["China", "Japan", "South Korea", "Vietnam"],
+      "correctAnswer": "Japan"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "options": ["K2", "Mount Everest", "Makalu", "Kangchenjunga"],
+      "correctAnswer": "Mount Everest"
+    },
+    {
+      "question": "Which gas do plants release during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Oxygen"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Which famous scientist developed the theory of gravity?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Nikola Tesla"
+      ],
+      "correctAnswer": "Isaac Newton"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Go", "Gl"],
+      "correctAnswer": "Au"
+    },
+    {
+      "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "correctAnswer": "Venus"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correctAnswer": "Pacific Ocean"
+    },
+    {
+      "question": "Which element is commonly used as a fuel in nuclear reactors?",
+      "options": ["Uranium", "Plutonium", "Thorium", "Neptunium"],
+      "correctAnswer": "Uranium"
+    },
+    {
+      "question": "Which natural satellite orbits the Earth?",
+      "options": ["Europa", "Titan", "Ganymede", "Moon"],
+      "correctAnswer": "Moon"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["Wa", "H2O", "O2", "Hy"],
+      "correctAnswer": "H2O"
+    }
+  ]
+}
